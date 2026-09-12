@@ -51,5 +51,9 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    ```
    pip install crewai duckduckgo-search pydantic python-dotenv
    ```
+4. **Run the Engine:**
+   ```
+   python app.py
+   ```
    
 
