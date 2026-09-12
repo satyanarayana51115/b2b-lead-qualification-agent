@@ -1,6 +1,6 @@
 # 🎯 Autonomous B2B Lead Intelligence & Qualification Agent
 
-An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Python**, and **Gemini 2.5**. This system autonomously conducts live web intelligence on target companies, identifies operational friction and manual bottlenecks, evaluates enterprise automation fit, and outputs structured, personalized cold outreach emails.
+An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Python**, and **Gemini 3.5**. This system autonomously conducts live web intelligence on target companies, identifies operational friction and manual bottlenecks, evaluates enterprise automation fit, and outputs structured, personalized cold outreach emails.
 
 ---
 
