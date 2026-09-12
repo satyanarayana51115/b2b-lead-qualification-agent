@@ -68,7 +68,7 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ```bash
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
 ​[ ] Interactive Streamlit Web Interface (v1.1)
-​[ ] Social Selling & Executive Hiring Intent Scraper (v2.0)
+​[ ] Social Selling  and Executive Hiring Intent Scraper (v2.0)
 ```
    
 
