@@ -39,33 +39,33 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 
 ## ⚙️ Quickstart
 1. **Clone the repository:**
-```bash
    ```
    git clone https://github.com/satyanarayana51115/b2b-lead-qualification-agent.git
    cd b2b-lead-qualification-agent
    ```
-
-1. **Create Virtual Environment:**
-   ```bash
+2. **Virtual Environment:**
+   **On Windows:**
+   ```
    python -m venv venv
+   venv\Scripts\activate
    ```
-2. **Activate Environment:**
+   **On macOS/Linux:**
    ```
-   .\venv\Scripts\activate
+   python3 -m venv venv
+   source venv/bin/activate
    ```
 3. **Install Dependencies:**
    ```
    pip install crewai duckduckgo-search pydantic python-dotenv
    ```
 4. **Configure API Keys:**
-   ```
+   ```env
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 5. **Run the Engine:**
    ```
    python app.py
    ```
-
 ## 🗺️ Roadmap
 ```bash
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
