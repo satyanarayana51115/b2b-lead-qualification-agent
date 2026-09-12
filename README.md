@@ -30,7 +30,6 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 }
 ```
 ## 🛠️ Tech Stack
-```bash
 ​Framework: CrewAI
 ​Language: Python 3.11+
 ​LLM Engine: Gemini 3.5 Flash
