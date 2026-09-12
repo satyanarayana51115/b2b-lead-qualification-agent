@@ -38,6 +38,13 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ​* **Schema Validation:** Pydantic v2
 
 ## ⚙️ Quickstart
+1. **Clone the repository:**
+```bash
+   ```
+   git clone https://github.com/satyanarayana51115/b2b-lead-qualification-agent.git
+   cd b2b-lead-qualification-agent
+   ```
+
 1. **Create Virtual Environment:**
    ```bash
    python -m venv venv
@@ -58,11 +65,7 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    ```
    python app.py
    ```
-6. **Clone the repository:**
-   ```
-   git clone https://github.com/satyanarayana51115/b2b-lead-qualification-agent.git
-   cd b2b-lead-qualification-agent
-   ```
+
 ## 🗺️ Roadmap
 ```bash
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
