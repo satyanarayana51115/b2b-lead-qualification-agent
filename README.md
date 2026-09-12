@@ -30,11 +30,13 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 }
 ```
 ## 🛠️ Tech Stack
-​   * **Framework:** CrewAI
-​   * **Language:** Python 3.11+
-​   * **LLM Engine**: Gemini 3.5 Flash
-​   * **Search Integration:** DuckDuckGo Search (ddgs)
-​   * **Schema Validation:** Pydantic v2
+```
+​   **Framework:** CrewAI
+​   **Language:** Python 3.11+
+​   **LLM Engine**: Gemini 3.5 Flash
+​   **Search Integration:** DuckDuckGo Search (ddgs)
+​   **Schema Validation:** Pydantic v2
+```
 ## ⚙️ Quickstart
 
 1. **Clone the repository:**
@@ -67,10 +69,10 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    python app.py
    ```
 ## 🗺️ Roadmap
-```bash
+```
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
 ​[-] Interactive Streamlit Web Interface (v1.1)
 ​[-] Social Selling  and Executive Hiring Intent Scraper (v2.0)
-```
+
    
 
