@@ -44,12 +44,13 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    cd b2b-lead-qualification-agent
    ```
 2. **Virtual Environment:**
-   **On Windows:**
+   
+*  **On Windows:**
    ```
    python -m venv venv
    venv\Scripts\activate
    ```
-   **On macOS/Linux:**
+*  **On macOS/Linux:**
    ```
    python3 -m venv venv
    source venv/bin/activate
@@ -59,18 +60,18 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    pip install crewai duckduckgo-search pydantic python-dotenv
    ```
 4. **Configure API Keys:**
-   ```env
+   ```
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
-5. **Run the Engine:**
+6. **Run the Engine:**
    ```
    python app.py
    ```
 ## 🗺️ Roadmap
 ```bash
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
-​[ ] Interactive Streamlit Web Interface (v1.1)
-​[ ] Social Selling  and Executive Hiring Intent Scraper (v2.0)
+​[-] Interactive Streamlit Web Interface (v1.1)
+​[-] Social Selling  and Executive Hiring Intent Scraper (v2.0)
 ```
    
 
