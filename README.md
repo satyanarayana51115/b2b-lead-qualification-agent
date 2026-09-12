@@ -65,9 +65,10 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    cd b2b-lead-qualification-agent
    ```
 ## 🗺️ Roadmap
+'''
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
 ​[ ] Interactive Streamlit Web Interface (v1.1)
 ​[ ] Social Selling & Executive Hiring Intent Scraper (v2.0)
-   
+'''
    
 
