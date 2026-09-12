@@ -30,10 +30,11 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 }
 ```
 ```bash
-## 🛠️ Tech Stack
-​Framework: CrewAI
-​Language: Python 3.11+
-​LLM Engine: Gemini 2.5 Flash
-​Search Integration: DuckDuckGo Search (ddgs)
-​Schema Validation: Pydantic v2
-​## ⚙️ Quickstart
+   ## 🛠️ Tech Stack
+​   Framework: CrewAI
+​   Language: Python 3.11+
+​   LLM Engine: Gemini 2.5 Flash
+​   Search Integration: DuckDuckGo Search (ddgs)
+​   Schema Validation: Pydantic v2
+​   ## ⚙️ Quickstart
+```
