@@ -29,7 +29,6 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
   "cold_pitch_email": "Subject: Accelerating Shopify Plus Onboarding & Risk Triage with AI\n\nHi Team,\n\nWhile Shopify powers global commerce, manual bottlenecks in enterprise migrations and underwriting are likely slowing down your time-to-revenue. Solution Engineers spending hours manually mapping databases creates massive friction.\n\nWe build custom Python automation pipelines to solve this exact friction by deploying OCR-driven document verification and schema auto-mapping. Are you open to a brief chat next week?"
 }
 ```
-
 ## 🛠️ Tech Stack
 ​* **Framework:** CrewAI
 ​* **Language:** Python 3.11+
