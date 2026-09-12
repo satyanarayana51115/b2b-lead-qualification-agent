@@ -43,5 +43,13 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    ```bash
    git clone https://github.com/satyanarayana51115/b2b-lead-qualification-agent.git
    cd b2b-lead-qualification-agent
-```
+2. **Configure Environment:**
+   ```
+   GEMINI_API_KEY=your_gemini_api_key_here
+   ```
+3. **Install Dependencies:**
+   ```
+   pip install crewai duckduckgo-search pydantic python-dotenv
+   ```
+   
 
