@@ -76,29 +76,28 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ​  - [ ] Interactive Streamlit Web Interface (v1.1)
 ​  - [ ] Social Selling  and Executive Hiring Intent Scraper (v2.0)
 ```
-
 ## 🖥️ Interactive Web UI Demo
-```
+
 ![Streamlit UI Demo](ui_preview.png)
-```
+
 ### 🔄 Agentic Architecture Flow
 
-```
+```text
 [Target Domain: zepto.com]
-│
-▼
-[Streamlit Web UI]
-│
-▼
-[Agent 1: Lead Intelligence Analyst]
-└── DuckDuckGo Live Web Search (Operational friction, dark stores, logistics)
-│
-▼
-[Agent 2: Value Proposition Strategist]
-└── Gemini 3.6-flash + Pydantic Schema Validation
-│
-▼
-[Structured Output]
-├── Automation Fit Score (e.g. 9/10)
-├── Key Operational Bottlenecks
-└── Hyper-Personalized Cold Outreach Pitch
+          │
+          ▼
+   [Streamlit Web UI]
+          │
+          ▼
+ [Agent 1: Lead Intelligence Analyst]
+    └── DuckDuckGo Live Web Search (Operational friction, dark stores, logistics)
+          │
+          ▼
+ [Agent 2: Value Proposition Strategist]
+    └── Gemini 3.6-flash + Pydantic Schema Validation
+          │
+          ▼
+ [Structured Output]
+    ├── Automation Fit Score (e.g. 9/10)
+    ├── Key Operational Bottlenecks
+    └── Hyper-Personalized Cold Outreach Pitch
