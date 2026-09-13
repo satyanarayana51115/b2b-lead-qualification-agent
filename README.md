@@ -78,9 +78,9 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ```
 
 ## 🖥️ Interactive Web UI Demo
-
+```
 ![Streamlit UI Demo](ui_preview.png)
-
+```
 ### 🔄 Agentic Architecture Flow
 
 ```
@@ -102,5 +102,3 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ├── Automation Fit Score (e.g. 9/10)
 ├── Key Operational Bottlenecks
 └── Hyper-Personalized Cold Outreach Pitch
-
- 
