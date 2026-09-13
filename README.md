@@ -38,8 +38,7 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ​   *  **LLM Engine**: Gemini 3.5 Flash
 ​   *  **Search Integration:** DuckDuckGo Search (ddgs)
 ​   *  **Schema Validation:** Pydantic v2
-```
-   
+   ```
 ## ⚙️ Quickstart
    
 1. **Clone the repository:**
