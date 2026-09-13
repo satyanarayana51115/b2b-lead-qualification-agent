@@ -28,7 +28,9 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
   ],
   "cold_pitch_email": "Subject: Accelerating Shopify Plus Onboarding & Risk Triage with AI\n\nHi Team,\n\nWhile Shopify powers global commerce, manual bottlenecks in enterprise migrations and underwriting are likely slowing down your time-to-revenue. Solution Engineers spending hours manually mapping databases creates massive friction.\n\nWe build custom Python automation pipelines to solve this exact friction by deploying OCR-driven document verification and schema auto-mapping. Are you open to a brief chat next week?"
 }
+
 ```
+
 ## 🛠️ Tech Stack
 
 ​   **Framework:** CrewAI
@@ -36,8 +38,7 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
 ​   **LLM Engine**: Gemini 3.5 Flash
 ​   **Search Integration:** DuckDuckGo Search (ddgs)
 ​   **Schema Validation:** Pydantic v2
-```
-```
+     ```bash
 ## ⚙️ Quickstart
 
 1. **Clone the repository:**
@@ -46,7 +47,7 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    cd b2b-lead-qualification-agent
    ```
 2. **Virtual Environment:**
-   
+   ```
 *  **On Windows:**
    ```
    python -m venv venv
@@ -65,16 +66,15 @@ An enterprise-grade autonomous multi-agent pipeline built with **CrewAI**, **Pyt
    ```
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
-
 5. **Run the Engine:**
    ```
    python app.py
    ```
 ## 🗺️ Roadmap
-```
+    ```
 ​[x] Multi-Agent Core Extraction Pipeline (v1.0)
 ​[-] Interactive Streamlit Web Interface (v1.1)
 ​[-] Social Selling  and Executive Hiring Intent Scraper (v2.0)
-```
+    ```
    
 
